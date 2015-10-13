@@ -13,7 +13,7 @@ The data collected contains 5 different classes of activities, (sitting-down, st
 
 Read more: http://groupware.les.inf.puc-rio.br/har
 
-After downloading the data sets, a Random Forrest model was developed to reach a ** high Accuracy (0.9937)** and **low error rate (0.6%)**.
+After downloading the data sets, a Random Forrest model was developed to reach a **high Accuracy (0.9937)** and **low error rate (0.6%)**.
 
 The final model was able to correctly classify all 20 cases in the test set.
 
